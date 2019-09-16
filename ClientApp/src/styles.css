@@ -1,0 +1,16 @@
+/* You can add global styles to this file, and also import other style files */
+input[type='number']::-webkit-inner-spin-button,
+input[type='number']::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+.card {
+  margin-top: 20px;
+}
+
+.bold {
+  font-weight: bold;
+}
+.btn {
+  background: #fdd306;
+}

@@ -1,0 +1,9 @@
+/*HEADER*/
+.navbar-light {
+  margin-left: 20px;
+}
+header {
+  border-bottom: 5px groove rgb(240, 236, 236);
+  padding: 20px;
+  border-top: 6px solid #fdd306;
+}

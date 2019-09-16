@@ -1,0 +1,57 @@
+[
+  {
+    "dni": "23452678",
+    "nombre": "Martina",
+    "apellido": "Sanchez"
+  },
+  {
+    "dni": "25874623",
+    "nombre": "Salvador",
+    "apellido": "Gomez"
+  },
+  {
+    "dni": "23582371",
+    "nombre": "Gladys",
+    "apellido": "Azcurra"
+  },
+  {
+    "dni": "15852631",
+    "nombre": "Omar",
+    "apellido": "Alvarado"
+  },
+  {
+    "dni": "8251322",
+    "nombre": "Martina",
+    "apellido": "Sanchez"
+  },
+  {
+    "dni": "17859632",
+    "nombre": "Ernesto",
+    "apellido": "Perez"
+  },
+  {
+    "dni": "20142385",
+    "nombre": "Luis",
+    "apellido": "Peña"
+  },
+  {
+    "dni": "8763215",
+    "nombre": "Susana",
+    "apellido": "Bianchi"
+  },
+  {
+    "dni": "5872563",
+    "nombre": "Jorge",
+    "apellido": "Pereyra"
+  },
+  {
+    "dni": "33855742",
+    "nombre": "Ezequiel",
+    "apellido": "Gomez"
+  },
+  {
+    "dni": "40526782",
+    "nombre": "Camilo",
+    "apellido": "Quintana"
+  }
+]
