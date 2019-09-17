@@ -13,7 +13,6 @@ export class VisitformComponent {
     http.get<Sectores[]>(baseUrl + 'api/sectores').subscribe(
       result => {
         this.sectores = result;
-        // console.log(this.sectores);
       },
       error => console.error(error)
     );

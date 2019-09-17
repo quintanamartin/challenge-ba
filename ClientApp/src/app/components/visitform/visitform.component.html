@@ -36,7 +36,13 @@
           <div class="col-md-6">
             <h6 class="bold">Sector</h6>
             <select class="browser-default custom-select">
-              <option selected>Seleccione sector de la persona visitada</option>
+              <option
+                selected
+                *ngFor="let Sector of sectores"
+                [value]="Sector['nombre']"
+              >
+                {{ Sector.nombre }}</option
+              >
             </select>
           </div>
         </div>
