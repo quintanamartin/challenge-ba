@@ -5,11 +5,6 @@ import { Component, OnInit } from '@angular/core';
   templateUrl: './records.component.html',
   styleUrls: ['./records.component.css']
 })
-export class RecordsComponent implements OnInit {
-
-  constructor() { }
-
-  ngOnInit() {
-  }
-
+export class RecordsComponent {
+  constructor() {}
 }
